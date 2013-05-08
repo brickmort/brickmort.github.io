@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://brickmort.github.io/sitemap.xml 
